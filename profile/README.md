@@ -2,4 +2,5 @@
 
 ### Hello! This is our org for our game dev. 
 
-- we wanted our game to be visible to everyone! so we used github pages!
+- we wanted our game to be visible to everyone
+- this is why you are seeing this.
